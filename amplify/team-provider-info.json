@@ -23,6 +23,14 @@
       "StackName": "amplify-newdawnamplify-prod-141837",
       "StackId": "arn:aws:cloudformation:us-west-2:466469553065:stack/amplify-newdawnamplify-prod-141837/f64561e0-5e20-11ed-910f-0ae159047495",
       "AmplifyAppId": "d32duvgwuaj3ov"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d32duvgwuaj3ov",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
