@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-newdawnamplify-prod-141837-authRole",
+      "UnauthRoleArn": "arn:aws:iam::466469553065:role/amplify-newdawnamplify-prod-141837-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::466469553065:role/amplify-newdawnamplify-prod-141837-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-newdawnamplify-prod-141837-deployment",
+      "UnauthRoleName": "amplify-newdawnamplify-prod-141837-unauthRole",
+      "StackName": "amplify-newdawnamplify-prod-141837",
+      "StackId": "arn:aws:cloudformation:us-west-2:466469553065:stack/amplify-newdawnamplify-prod-141837/f64561e0-5e20-11ed-910f-0ae159047495",
+      "AmplifyAppId": "d32duvgwuaj3ov"
+    }
+  }
+}
