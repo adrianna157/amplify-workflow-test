@@ -10,6 +10,11 @@
       "StackName": "amplify-newdawnamplify-dev-141615",
       "StackId": "arn:aws:cloudformation:us-west-2:466469553065:stack/amplify-newdawnamplify-dev-141615/a1f7f620-5e20-11ed-a61a-02199641a49b",
       "AmplifyAppId": "d32duvgwuaj3ov"
+    },
+    "categories": {
+      "api": {
+        "newdawnamplify": {}
+      }
     }
   },
   "prod": {

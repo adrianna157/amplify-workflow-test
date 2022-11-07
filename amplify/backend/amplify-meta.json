@@ -11,5 +11,32 @@
       "StackId": "arn:aws:cloudformation:us-west-2:466469553065:stack/amplify-newdawnamplify-dev-141615/a1f7f620-5e20-11ed-a61a-02199641a49b",
       "AmplifyAppId": "d32duvgwuaj3ov"
     }
+  },
+  "api": {
+    "newdawnamplify": {
+      "service": "AppSync",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "output": {
+        "authConfig": {
+          "defaultAuthentication": {
+            "authenticationType": "API_KEY",
+            "apiKeyConfig": {
+              "apiKeyExpirationDays": 7
+            }
+          },
+          "additionalAuthenticationProviders": []
+        },
+        "GraphQLAPIIdOutput": "gw3xyi7u7beapn2vpocgfs7u7a",
+        "GraphQLAPIEndpointOutput": "https://76ecut5iiraizic4fbugtaygfe.appsync-api.us-west-2.amazonaws.com/graphql",
+        "GraphQLAPIKeyOutput": "da2-o5c7kl3ybveodbljitdditwr5m"
+      },
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-newdawnamplify-dev-141615-deployment/amplify-cfn-templates/api/cloudformation-template.json",
+        "logicalId": "apinewdawnamplify"
+      },
+      "lastPushTimeStamp": "2022-11-07T00:28:23.590Z",
+      "lastPushDirHash": "8XHSJlrpTBshpk0mEXKJFfX0uC4="
+    }
   }
 }

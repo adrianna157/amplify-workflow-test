@@ -151,6 +151,20 @@
           "Ref": "UnauthRoleName"
         }
       }
+    },
+    "apinewdawnamplify": {
+      "Type": "AWS::CloudFormation::Stack",
+      "Properties": {
+        "TemplateURL": "https://s3.amazonaws.com/amplify-newdawnamplify-dev-141615-deployment/amplify-cfn-templates/api/cloudformation-template.json",
+        "Parameters": {
+          "AppSyncApiName": "newdawnamplify",
+          "DynamoDBBillingMode": "PAY_PER_REQUEST",
+          "DynamoDBEnableServerSideEncryption": false,
+          "S3DeploymentBucket": "amplify-newdawnamplify-dev-141615-deployment",
+          "S3DeploymentRootKey": "amplify-appsync-files/7fa980aa398da00d95f76d554b82e7bbc1241221",
+          "env": "dev"
+        }
+      }
     }
   }
 }
