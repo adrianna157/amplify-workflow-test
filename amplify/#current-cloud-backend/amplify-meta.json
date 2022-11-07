@@ -39,4 +39,11 @@
       "lastPushDirHash": "8XHSJlrpTBshpk0mEXKJFfX0uC4="
     }
   }
+    "hosting": {
+        "amplifyhosting": {
+            "service": "amplifyhosting",
+            "type": "cicd",
+            "lastPushTimeStamp": "2022-11-06T22:48:27.265Z"
+        }
+    }
 }
