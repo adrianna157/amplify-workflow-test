@@ -8,5 +8,10 @@
     "configLevel": "project",
     "useProfile": true,
     "profileName": "new-dawn"
+  },
+  "adrianna": {
+    "configLevel": "project",
+    "useProfile": true,
+    "profileName": "adrianna-ut"
   }
 }

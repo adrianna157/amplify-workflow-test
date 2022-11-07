@@ -1,14 +1,14 @@
 {
   "providers": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-newdawnamplify-prod-141837-authRole",
-      "UnauthRoleArn": "arn:aws:iam::466469553065:role/amplify-newdawnamplify-prod-141837-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::466469553065:role/amplify-newdawnamplify-prod-141837-authRole",
+      "AuthRoleName": "amplify-newdawnamplify-dev-141615-authRole",
+      "UnauthRoleArn": "arn:aws:iam::466469553065:role/amplify-newdawnamplify-dev-141615-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::466469553065:role/amplify-newdawnamplify-dev-141615-authRole",
       "Region": "us-west-2",
-      "DeploymentBucketName": "amplify-newdawnamplify-prod-141837-deployment",
-      "UnauthRoleName": "amplify-newdawnamplify-prod-141837-unauthRole",
-      "StackName": "amplify-newdawnamplify-prod-141837",
-      "StackId": "arn:aws:cloudformation:us-west-2:466469553065:stack/amplify-newdawnamplify-prod-141837/f64561e0-5e20-11ed-910f-0ae159047495",
+      "DeploymentBucketName": "amplify-newdawnamplify-dev-141615-deployment",
+      "UnauthRoleName": "amplify-newdawnamplify-dev-141615-unauthRole",
+      "StackName": "amplify-newdawnamplify-dev-141615",
+      "StackId": "arn:aws:cloudformation:us-west-2:466469553065:stack/amplify-newdawnamplify-dev-141615/a1f7f620-5e20-11ed-a61a-02199641a49b",
       "AmplifyAppId": "d32duvgwuaj3ov"
     }
   }

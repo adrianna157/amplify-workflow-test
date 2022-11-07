@@ -24,5 +24,18 @@
       "StackId": "arn:aws:cloudformation:us-west-2:466469553065:stack/amplify-newdawnamplify-prod-141837/f64561e0-5e20-11ed-910f-0ae159047495",
       "AmplifyAppId": "d32duvgwuaj3ov"
     }
+  },
+  "adrianna": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-newdawnamplify-adrianna-161524-authRole",
+      "UnauthRoleArn": "arn:aws:iam::595369826829:role/amplify-newdawnamplify-adrianna-161524-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::595369826829:role/amplify-newdawnamplify-adrianna-161524-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-newdawnamplify-adrianna-161524-deployment",
+      "UnauthRoleName": "amplify-newdawnamplify-adrianna-161524-unauthRole",
+      "StackName": "amplify-newdawnamplify-adrianna-161524",
+      "StackId": "arn:aws:cloudformation:us-west-2:595369826829:stack/amplify-newdawnamplify-adrianna-161524/472e79b0-5e31-11ed-bc16-064878601819",
+      "AmplifyAppId": "d2p4dq1compqnf"
+    }
   }
 }
